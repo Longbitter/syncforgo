@@ -1,0 +1,28 @@
+#1558426781
+ls
+#1558426783
+cd 
+#1558426788
+ssh-keygen 
+#1558426791
+cd .ssh/
+#1558426791
+ls
+#1558426814
+mv id_rsa ordinary
+#1558426818
+mv id_rsa.pub ordinary.pub
+#1558426818
+ls
+#1558426821
+sz ordinary*
+#1558438173
+ls
+#1558438178
+read authorized_keys 
+#1558438185
+id
+#1558438188
+pwd
+#1558581860
+exit
